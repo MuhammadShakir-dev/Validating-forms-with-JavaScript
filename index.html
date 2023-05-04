@@ -1,1 +1,74 @@
 
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>HTML-Form</title>
+        <link rel="stylesheet" href="Forms.css">
+    </head>
+    <body>
+        <div class="form-container">
+            <form class="registeration-form" name="registeration" onsubmit="return formValidation()">
+                <table>
+                    <tr>
+                        <td><label for="Name">Enter Name : </label></td>
+                        <td><input type="text" id="Name" placeholder="Your Name" name="Name"></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="Email">Enter Email : </label></td>
+                        <td><input type="email" id="Email" placeholder="Enter Email" name="Email"></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="Number">Enter Tel : </label></td>
+                        <td><input type="tel" id="Number" placeholder="Enter tel no" name="Number"></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="Age">Enter Age : </label></td>
+                        <td><input type="number" id="Age" placeholder="Enter age" name="Age"></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="Gender">Select gender</label></td>
+                        <td>
+                            Male: <input type="radio" value="male" name="Gender">
+                            Female: <input type="radio" value="female" name="Gender"> 
+                            Others: <input type="radio" value="others" name="Gender">
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="Language">Select Language : </label></td>
+                        <td>
+                            <select name="Language" id="Language" name="Language">
+                                <option value="">Select Language</option>
+                                <option value="Urdu">Urdu</option>
+                                <option value="English">English</option>
+                                <option value="Spanish">Spanish</option>
+                                <option value="Russian">Russain</option>
+                            </select>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="zipCode">Zip Code : </label></td>
+                        <td><input type="number" id="zipCode" placeholder="Enter zip code" name="zipCode"></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="textArea"> About : </label></td>
+                        <td><textarea name="textArea" id="textArea" cols="30" rows="10" placeholder="Write about yourself"></textarea></td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2"><input type="submit" class="submit" value="Register" name="submit"/></td>
+                    </tr>
+
+                </table>
+            </form>
+        </div>
+        <script src="validation.js"></script>
+    </body>
+
+</html>
