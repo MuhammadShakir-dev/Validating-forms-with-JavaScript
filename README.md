@@ -9,7 +9,7 @@ In this repostory you will get Three files.
 In the main index.html file you will get all the html, css and JavaScript Code and you can preview it or check it on Gihtub Pages as well.
 
 ## Live Preview.
-<a href="https://muhammadshakir-dev.github.io/Validating-forms-with-JavaScript/"> Forms Preview </a>
+<a href="https://muhammadshakir-dev.github.io/Validating-forms-with-JavaScript/" target="_blank"> Forms Preview </a>
 
 ## Note.
 Fell free to contribute to this repoistory. 
