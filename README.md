@@ -12,6 +12,6 @@ In the main index.html file you will get all the html, css and JavaScript Code a
 <a href="https://muhammadshakir-dev.github.io/Validating-forms-with-JavaScript/" target="_blank"> Forms Preview </a>
 
 ## Note.
-Fell free to contribute to this repoistory. 
+Fell free to contribute to this repoistory.
 
 
