@@ -1,4 +1,4 @@
-# Validate HTML Forms with JavaScript
+# Validating HTML Forms with JavaScript
 This repository is superusefull for those developer who are new to JavaScript and want to how to validate html forms using JavaScript.
 In this repostory you will get Three files.
 
