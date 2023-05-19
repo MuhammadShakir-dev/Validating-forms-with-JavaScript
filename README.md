@@ -11,6 +11,9 @@ In the main index.html file you will get all the html, css and JavaScript Code a
 ## Live Preview.
 <a href="https://muhammadshakir-dev.github.io/Validating-forms-with-JavaScript/" target="_blank"> Forms Preview </a>
 
+## Output.
+![image](https://github.com/MuhammadShakir-dev/Validating-forms-with-JavaScript/assets/84896803/1d68175f-3ae9-4291-bab7-e5cd0c6209f0)
+
 ## Note.
 Fell free to contribute to this repoistory.
 
